@@ -1,7 +1,7 @@
 # I imagine you will use our class notes and previous examples to do a lot of the
 # homework. If you finish early, then repeat WITHOUT looking at the previous examples.
 # Continue until you can do it all and explain the code to yourself. Wax on. Wax off.
-# And then blog it. - JB
+# And then blog it + create an about page for your blog. - JB
 
 # PART 1
 # 1. Make an array of your classmate's names
