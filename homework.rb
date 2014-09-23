@@ -3,6 +3,10 @@
 # Continue until you can do it all and explain the code to yourself. Wax on. Wax off.
 # And then blog it + create an about page for your blog. - JB
 
+# Since I failed / forgot to teach git today and everyone's brains are full.
+# Make a gist of your solution + HipChat the gist url
+# And if you update your blog, HipChat the post url and the about page url
+
 # PART 1
 # 1. Make an array of your classmate's names
 # Part homework... part Ice Breaker... part review... #winning
