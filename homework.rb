@@ -46,7 +46,7 @@ movies << {
   stars: ["Kate Winslet", "Leonardo DiCaprio"]
 }
 movies << {
-  title: "Inception"
+  title: "Inception",
   budget: 160,
   stars: ["Leonardo DiCaprio", "JGL"]
 }
