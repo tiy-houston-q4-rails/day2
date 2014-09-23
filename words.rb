@@ -1,4 +1,5 @@
-message_of_the_day = "Ruby is better than JavaScript"
+# message_of_the_day = "Ruby is better than JavaScript"
+message_of_the_day = "Yay Ruby"
 
 words = []
 
