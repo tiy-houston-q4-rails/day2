@@ -20,9 +20,9 @@ sentence = "Ruby is way better than JavaScript."
 
 # PART 3
 # 1. Create an array of movies with budgets less than 100
-# < is less than
-# 3 < 5 true
-# 7 < 5 false
+#     < is less than
+#     3 < 5 true
+#     7 < 5 false
 # 2. Create an array of movies that have Leonardo DiCaprio as a star
 movies = []
 movies << {
